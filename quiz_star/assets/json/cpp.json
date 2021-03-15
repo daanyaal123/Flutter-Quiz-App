@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following is not a C++ Header file ?",
+        "2": "Choose the respective delete operator usage for the expression ‘ptr=new int[100]’",
+        "3": "Runtime polymorphism is done using.",
+        "4": "Identify the C++ compiler of Linux",
+        "5": "Which of the following is not a correct variable type?",
+        "6": "Which of the following is the correct operator to compare two variables?",
+        "7": "What is the only function all C++ programs must contain?",
+        "8": "Which of the following is the proper declaration of a pointer?",
+        "9": "Which of the following is the proper keyword to allocate memory?",
+        "10": "Which is not a protection level provided by classes in C++?"
+    },
+    {
+        "1": {
+            "a": "conio.h",
+            "b": "cstdlib.h",
+            "c": "stdio.h",
+            "d": "math.h"
+        },
+        "2": {
+            "a": "delete ptr;",
+            "b": "delete ptr[];",
+            "c": "delete[] ptr;",
+            "d": "[]delete ptr;"
+        },
+        "3": {
+            "a": "Function overloading",
+            "b": "Virtual functions",
+            "c": "Virtual classes",
+            "d": "Friend function"
+        },
+        "4": {
+            "a": "cpp",
+            "b": "g++",
+            "c": "Borland",
+            "d": "vc++"
+        },
+        "5": {
+            "a": "float",
+            "b": "int",
+            "c": "real",
+            "d": "double"
+        },
+        "6": {
+            "a": ":=",
+            "b": "=",
+            "c": "equal",
+            "d": "=="
+        },
+        "7": {
+            "a": "start()",
+            "b": "main()",
+            "c": "system()",
+            "d": "program()"
+        },
+        "8": {
+            "a": "int x;",
+            "b": "int &x;",
+            "c": "int *x;",
+            "d": "ptr x;"
+        },
+        "9": {
+            "a": "new",
+            "b": "malloc",
+            "c": "create",
+            "d": "value"
+        },
+        "10": {
+            "a": "protected",
+            "b": "hidden",
+            "c": "private",
+            "d": "public"
+        }
+    },
+    {
+        "1": "stdio.h",
+        "2": "delete[] ptr;",
+        "3": "Virtual functions",
+        "4": "g++",
+        "5": "real",
+        "6": "==",
+        "7": "main()",
+        "8": "int *x;",
+        "9": "new",
+        "10": "hidden"
+    }
+]

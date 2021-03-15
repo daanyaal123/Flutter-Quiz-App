@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What Will Be The Output Of the Following Code ?\nif(1 + 1 + 1 + 1 + 1 == 5){\n\tSystem.out.print(\"TRUE\");\n}\n\telse{\n\tSystem.out.print(\"FALSE\");\n};",
+        "2": "Which of the following is not a keyword in java?",
+        "3": "What is the default value of char variable?",
+        "4": " Which method must be implemented by all threads?",
+        "5": "How do you insert COMMENTS in Java code?",
+        "6": "Which of these is an incorrect array declaration?",
+        "7": "Which of these is necessary to specify at time of array initialization?",
+        "8": "Which of these can be used to fully abstract a class from its implementation?",
+        "9": "Which of these class is superclass of String and StringBuffer class?",
+        "10": "Which of these operators can be used to concatenate two or more String objects?"
+    },
+    {
+        "1": {
+            "a": "TRUE",
+            "b": "BOTH",
+            "c": "ERROR",
+            "d": "FALSE"
+        },
+        "2": {
+            "a": "static",
+            "b": "Boolean",
+            "c": "void",
+            "d": "private"
+        },
+        "3": {
+            "a": "'\u0000'",
+            "b": "0",
+            "c": "null",
+            "d": "Not Defined"
+        },
+        "4": {
+            "a": "void()",
+            "b": "start()",
+            "c": "stop()",
+            "d": "run()"
+        },
+        "5": {
+            "a": "// This is a comment",
+            "b": "#This is a comment",
+            "c": "/* This is a comment",
+            "d": "None of These"
+        },
+        "6": {
+            "a": "int arr[] = new int[5]",
+            "b": "int [] arr = new int[5]",
+            "c": "int arr[]arr = new int[5]",
+            "d": "int arr[] = int [5] new"
+        },
+        "7": {
+            "a": "Row",
+            "b": "Column",
+            "c": "Both",
+            "d": "None"
+        },
+        "8": {
+            "a": "Objects",
+            "b": "Interfaces",
+            "c": "Packages",
+            "d": "None of These"
+        },
+        "9": {
+            "a": "java.util",
+            "b": "java.lang",
+            "c": "ArrayList",
+            "d": "None of These"
+        },
+        "10": {
+            "a": "+",
+            "b": "+=",
+            "c": "&",
+            "d": "||"
+        }
+    },
+    {
+        "1": "TRUE",
+        "2": "Boolean",
+        "3": "'\u0000'",
+        "4": "run()",
+        "5": "// This is a comment",
+        "6": "int arr[] = new int[5]",
+        "7": "Row",
+        "8": "Interfaces",
+        "9": "java.lang",
+        "10": "+"
+    }
+]
